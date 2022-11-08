@@ -23,7 +23,7 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-</picture>$\color[RGB]{168,109,156} TEAM:$</h2></div>
+</picture>$\color[RGB]{65, 255, 174} TEAM:$</h2></div>
 
     1. Kasiraja G (TL)- 810419104045
     
@@ -34,7 +34,7 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-</picture>$\color[RGB]{168,109,156} INTRODUCTION:$</h2></div>
+</picture>$\color[RGB]{65, 255, 174} INTRODUCTION:$</h2></div>
 
         ⦿ Humans are able to recognize body and sign language easily. This is possible due to the combination of vision
     and synaptic interactions that wereformed along brain development . In order to replicate this skill in computers, 
@@ -49,7 +49,7 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-</picture>$\color[RGB]{168,109,156} PROJECT \ OBJECTIVE:$</h2></div>
+</picture>$\color[RGB]{65, 255, 174} PROJECT \ OBJECTIVE:$</h2></div>
 **By the end of this project you will**
 
     ➼ Know fundamental concepts and techniques of Convolutional Neural Network.
@@ -63,7 +63,7 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-</picture> $\color[RGB]{168,109,156} PROBLEM \ STATEMENT:$</h2></div>
+</picture> $\color[RGB]{65, 255, 174} PROBLEM \ STATEMENT:$</h2></div>
 
        ⦿ In this project we have used Convolutional Neural Network to frst train the model on the images of
       different hand gestures, like showing numbers with fngers as 0,1,2,3,4,5. Then we made a web portal
@@ -80,7 +80,7 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-</picture> $\color[RGB]{168,109,156} PROJECT \ FLOW:$</h2></div>
+</picture> $\color[RGB]{65, 255, 174} PROJECT \ FLOW:$</h2></div>
 
     ⦿ User interacts with the UI (User Interface) to upload the image as input
 
@@ -120,7 +120,7 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-</picture>$\color[RGB]{168,109,156} PROJECT \ STRUCTURE:$</h2></div>
+</picture>$\color[RGB]{65, 255, 174} PROJECT \ STRUCTURE:$</h2></div>
 **Create a Project folder which contains files as shown below**
 
 
@@ -136,7 +136,7 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-</picture>$\color[RGB]{168,109,156} TECHNICAL \ ARCHITECTURE:$</h2></div>
+</picture>$\color[RGB]{65, 255, 174} TECHNICAL \ ARCHITECTURE:$</h2></div>
 
 ![image](https://user-images.githubusercontent.com/70817219/194914841-4fc230f1-53f9-4b5a-8d9a-e902d9fc3581.png)
 
