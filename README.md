@@ -1,4 +1,4 @@
-# A Gesture-Based Tool For Sterile Browsing Of Radiology Images<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="40" height="40">
+# A Gesture-Based Tool For Sterile Browsing Of Radiology Images.
 
 <p align="center">
 <a href="https://www.ibm.com/in-en">
@@ -23,7 +23,6 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
 </picture>$\color[RGB]{168,109,156} TEAM:$</h2></div>
 
     1. Kasiraja G (TL)- 810419104045
@@ -35,7 +34,6 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
 </picture>$\color[RGB]{168,109,156} INTRODUCTION:$</h2></div>
 
         ⦿ Humans are able to recognize body and sign language easily. This is possible due to the combination of vision
@@ -51,7 +49,6 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
 </picture>$\color[RGB]{168,109,156} PROJECT \ OBJECTIVE:$</h2></div>
 **By the end of this project you will**
 
@@ -66,7 +63,6 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
 </picture> $\color[RGB]{168,109,156} PROBLEM \ STATEMENT:$</h2></div>
 
        ⦿ In this project we have used Convolutional Neural Network to frst train the model on the images of
@@ -84,7 +80,6 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
 </picture> $\color[RGB]{168,109,156} PROJECT \ FLOW:$</h2></div>
 
     ⦿ User interacts with the UI (User Interface) to upload the image as input
@@ -125,7 +120,6 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
 </picture>$\color[RGB]{168,109,156} PROJECT \ STRUCTURE:$</h2></div>
 **Create a Project folder which contains files as shown below**
 
@@ -142,7 +136,6 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
 </picture>$\color[RGB]{168,109,156} TECHNICAL \ ARCHITECTURE:$</h2></div>
 
 ![image](https://user-images.githubusercontent.com/70817219/194914841-4fc230f1-53f9-4b5a-8d9a-e902d9fc3581.png)
